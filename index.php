@@ -84,7 +84,7 @@ include 'includes/params.php';
 
     </div>
 
-    <!-- sideleft column -->
+    <!-- sideright column -->
 
 
     <?php if ($this->countModules('side-right')) : ?>
