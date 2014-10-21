@@ -25,7 +25,12 @@
 		<filename>gruntfile.js</filename>
 	</files>
   <positions>
-		
+		<position>main-menu</position>
+		<position>content-top</position>
+		<position>content-bottom</position>
+		<position>footer</position>
+		<position>side-left</position>
+		<position>side-right</position>
 	</positions>
 	<config>
 	</config>
